@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: postgres
+data:
+  USER: "QF9vDKDJ9RkSAzn3"
+  PASSWORD: "d4NWdmhqV9VnZABJ"
+  DB: "SOME-DB"
